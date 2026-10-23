@@ -1,0 +1,5 @@
+secret/
+config/db.php
+.env
+update_user.php
+*.zip
